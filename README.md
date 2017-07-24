@@ -3,8 +3,7 @@
 识别无干扰、带不同水平的高斯噪声、带背景色、旋转、畸变这5类code39型条形码，进行安全解密。
 ------
 code39码的介绍：http://www.systron.com.cn/tiaoxingma/book2-4.htm
-> 
-identify_barcode_no interference.py：对无干扰条形码的识别
+> identify_barcode_no interference.py：对无干扰条形码的识别
 identify_barcode_with interference.py：对带不同水平的高斯噪声的条形码的识别
 identify_barcode_with backgroudcolor.py：对带背景色的条形码的识别
 identify_barcode_with rotate.py：对旋转的条形码的识别
